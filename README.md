@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hi,%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-<div align="center">
+<div align="center" style="padding: 0 30px">
   <p align="left" dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/25d07ba4220a3fcadb4af12394d157494ec298dec4ecd86321961427ea18c9e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/25d07ba4220a3fcadb4af12394d157494ec298dec4ecd86321961427ea18c9e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" alt="vscode" width="45" height="45" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;"></a>
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" style="max-width: 100%;"></a>
