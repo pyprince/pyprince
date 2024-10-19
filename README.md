@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hi%20👋,%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-<h1 align="center">I'm pyprince</h1>
+<h1 align="center">I'm Oleksandr</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pyprince&label=Profile%20views&color=0e75b6&style=flat" alt="pyprince" /> </p>
