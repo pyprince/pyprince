@@ -1,9 +1,4 @@
 <h2 align="center">A Passionate Fullstack Developer & Chief Problem Creator 🎉</h2>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pyprince&label=Profile%20views&color=0e75b6&style=flat" alt="pyprince" /> </p>
-
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=pyprince" alt="pyprince" /> </p>
-
 <h3 align="left">🚀 Welcome to My Code Playground!</h3>
 <p align="left">
   Here, I turn caffeine into code and chaos into creativity! If you’re looking for a few bugs to squash or a delightful disaster, you’re in the right place. 
