@@ -1,4 +1,4 @@
-<h2 align="center">A Passionate Fullstack Developer & Chief Problem Creator 🎉</h2>
+<h2 align="center">A Passionate Fullstack Developer</h2>
 <p align="left">
   Welcome to my GitHub profile! I am a dedicated full stack developer with a strong focus on delivering high-quality software solutions. I thrive on solving complex problems and transforming ideas into reality through code.
 </p>
